@@ -1,0 +1,13 @@
+Comandos que estou aprendendo:
+
+**git add**: adciona uma alteração no diretório à área de staging
+
+**git clone** pega o repositório como ele está no seu repósitorio , já iniciado e com todo o histórico de commits atualizado. Você baixa do seu reposotório a última versão atualizada para trabalhar
+
+**git status** exibe as condições atuais do diretório e da área de staging, ou seja a área onde o arquivo está pronto pra ser commitado
+
+**ls** mostra todos arquivos e pastas que estão no respectivo diretório
+
+**git push origin main:** Pra "subir" os arquivos do seu diretório/repositório local para a branch principal(main) do repositório remoto
+
+**git init** cria um repositório novo do Git, um repositório vazio
