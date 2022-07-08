@@ -11,3 +11,5 @@ Comandos que estou aprendendo:
 **git push origin main:** Pra "subir" os arquivos do seu diretório/repositório local para a branch principal(main) do repositório remoto
 
 **git init** cria um repositório novo do Git, um repositório vazio
+
+**git push origin master(que foi o caso deste projeto) pois os arquivos estavam nesta branch.
